@@ -1,24 +1,6 @@
-# ShopSphere 🛍️
+# ShopSphere 
 
 A modern, scalable microservices-based e-commerce platform built with Node.js, Express, and MongoDB.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
-[![Security: CodeQL](https://img.shields.io/badge/Security-CodeQL%20Verified-brightgreen.svg)](https://github.com/oyugijr/shop_sphere/security)
-
-## 📊 Project Status
-
-| Component | Status | Coverage |
-|-----------|--------|----------|
-| Core Services | ✅ Implemented | 60% |
-| Infrastructure | ✅ Implemented | 75% |
-| Testing | ⚠️ Partial | 5% |
-| CI/CD | ❌ Not Started | 0% |
-| Documentation | ✅ Complete | 100% |
-| **Overall** | 🔨 **In Development** | **~40%** |
-
-> 📋 **See [IMPLEMENTATION_STATUS.md](./IMPLEMENTATION_STATUS.md) for detailed analysis**
 
 ## 🚀 Features
 
