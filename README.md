@@ -15,7 +15,7 @@ A modern, scalable microservices-based e-commerce platform built with Node.js, E
 - **MongoDB Database**: Flexible NoSQL database for all services
 - **Notification System**: Email notifications with queue-based processing
 
-## 📋 Services Overview
+<!-- ## 📋 Services Overview
 
 | Service | Port | Description |
 |---------|------|-------------|
@@ -28,7 +28,7 @@ A modern, scalable microservices-based e-commerce platform built with Node.js, E
 | **Cart Service** | 5006 | Shopping cart management with real-time stock validation |
 | **MongoDB** | 27017 | Database for all services |
 | **Redis** | 6379 | Message queue and caching for notification service |
-| **MongoDB Express** | 8081 | Web-based MongoDB admin interface |
+| **MongoDB Express** | 8081 | Web-based MongoDB admin interface | -->
 
 ## 🏗️ Architecture
 
